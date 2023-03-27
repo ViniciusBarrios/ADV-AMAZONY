@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Amanda Ferreira",
+    "avatar": "/assets/avatars/Amanda Ferreira.jpg",
+    "mensage": "Como uma mulher de 50 anos, comecei a notar alguns sinais de envelhecimento em minha pele, incluindo pés de galinha e linhas finas ao redor dos lábios. Mas este produto com óleo de rosa mosqueta tem sido uma verdadeira ajuda para melhorar a aparência dessas áreas. Minha pele parece mais jovem e radiante.",
+    "createdAt": "há 2 dias"
+  },
+  {
+    "id": 2,
+    "name": "Ana Barbosa",
+    "avatar": "/assets/avatars/Ana Barbosa.jpeg",
+    "mensage": "Eu estava muito animada para experimentar este produto com óleo de rosa mosqueta depois de ler todos os comentários positivos. No entanto, fiquei muito desapontada quando o produto levou 12 dias para chegar até mim. Acho que a empresa precisa trabalhar em melhorias na entrega. Mas depois de usar o produto por alguns dias, devo admitir que estou impressionada com a suavidade da minha pele e a redução de rugas e linhas finas. Ainda assim, espero que a empresa resolva esse problema de entrega para tornar a experiência do cliente mais satisfatória.",
+    "createdAt": "há 3 dias"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Alves",
+    "avatar": "/assets/avatars/Sophia Alves.jfif",
+    "mensage": "Eu experimentei muitos produtos ao longo dos anos para tentar melhorar a aparência da minha pele, mas nada parecia funcionar. No entanto, este produto com óleo de rosa mosqueta foi um verdadeiro achado. Minha pele está mais suave, hidratada e as linhas finas estão menos visíveis. Recomendo!",
+    "createdAt": "há 7 dias"
+  },
+  {
+    "id": 4,
+    "name": "Luiza Cavalcanti",
+    "avatar": "/assets/avatars/Luiza Cavalcanti.jfif",
+    "mensage": "Eu sou uma mulher de 65 anos e tenho lutado contra a flacidez da minha pele há anos. Mas depois de usar este produto com óleo de rosa mosqueta por algumas semanas, notei uma diferença significativa na firmeza e elasticidade da minha pele. Estou muito satisfeita com os resultados!",
+    "createdAt": "há 1 mês"
+  },
+  {
+    "id": 5,
+    "name": "Lavinia Souza",
+    "avatar": "/assets/avatars/Lavinia Souza.jfif",
+    "mensage": "Eu tenho 30 anos e sempre tive uma pele muito oleosa. Mas este produto com óleo de rosa mosqueta ajudou a equilibrar a produção de óleo na minha pele, deixando-a mais hidratada sem parecer oleosa. Além disso, as rugas finas ao redor dos meus olhos estão menos visíveis.",
+    "createdAt": "há 1 mês"
+  }
+]
