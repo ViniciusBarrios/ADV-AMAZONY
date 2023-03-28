@@ -13,7 +13,7 @@ export default () => {
     <Container>
       <Header />
 
-      {CommentsData.map(({ id, name, avatar, mensage, likes, createdAt }) => (
+      {CommentsData.map(({ id, name, avatar, mensage, createdAt }) => (
         <Comment
           key={id}
           name={name}
