@@ -10,6 +10,8 @@ export default function Document() {
         <link rel="icon" href="/favicon.ico" />
 
         <style dangerouslySetInnerHTML={{ __html: getCssText() }} />
+        
+        <meta name="facebook-domain-verification" content="67zuzhi54flivk6g46qwmqe06q2303" />
 
         <Script
           id="google-tag-manager"
