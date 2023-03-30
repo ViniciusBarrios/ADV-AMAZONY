@@ -13,7 +13,7 @@ export default function Document() {
 
         <meta
           name="facebook-domain-verification"
-          content="67zuzhi54flivk6g46qwmqe06q2303"
+          content="9t24yvxelrtv5j6z7hci4k2m2mv22b"
         />
 
         <Script
